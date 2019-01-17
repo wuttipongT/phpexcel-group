@@ -1,1 +1,4 @@
-"# phpexcel-group" 
+# phpexcel-group
+```cli
+composer install
+```
